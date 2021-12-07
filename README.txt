@@ -1,4 +1,4 @@
-title: Scheduling Application
+<h1> title: Scheduling Application
 
 Purpose: The application allows for a company to manage appointments and customers.
 
