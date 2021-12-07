@@ -31,7 +31,6 @@ How To Run The Program?
 3.	To login to application use Username: test Password: test 
 
 Special Instructions:
-To delete customer or appointment item must be selected first.
 To view current month or week appointment please select month or week from order by combo box.
 When adding make sure the appointment falls with hours of business 8:00 to 22:00 EST.
 The Start and End Time are saved in military time because app is attended to global use. 
