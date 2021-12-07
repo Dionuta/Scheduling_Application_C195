@@ -13,10 +13,10 @@ When adding appointments to database Start and End times are checked for overlap
 Reports showing info related to the type of appointment, number of appointments by contact, and area of appointment.
 
 
-author: Dionuta Burton
-contact information: linkedin.com/in/dionuta-burton/, taycodes.com
-student application version: 1.0.0
-date publised: 11/19/2021
+Author: Dionuta Burton
+Contact Information: linkedin.com/in/dionuta-burton/, taycodes.com
+Student Application version: 1.0.0
+Date publised: 11/19/2021
 IDE: IntelliJ Community 2021.1.2.3
 JDK: Java SE Development Kit 11.0.12 
 JavaFX Version: 11.0.2
